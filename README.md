@@ -1,7 +1,3 @@
-Here's your **`README.md`** with the link to the **Upload Image** folder included:
-
----
-
 # OpenCV-JS Projects
 
 This repository is dedicated to various projects using **OpenCV.js**, a JavaScript binding for the popular OpenCV library. OpenCV.js allows developers to harness the power of OpenCV’s computer vision capabilities directly in the browser or Node.js environment, making it ideal for image processing and real-time applications.
