@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+.header-title {
+  text-align: center;
+  color: #333;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.inputoutput {
+  display: flex;
+  flex-direction: column; /* Arrange the image and caption in a column */
+  align-items: center; /* Align items to the left */
+  margin: 20px;
+}
+
+#imageSrc,
+#imageOutput {
+  max-width: 480px;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.message {
+  color: #666;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+form {
+  border: 2px solid #4caf50;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #fff;
+}
+
+form label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+form input {
+  margin-top: 10px;
+}
+
+.caption {
+  text-align: center;
+  font-style: italic;
+  color: #444;
+}
+
+/* Responsive Layout */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
