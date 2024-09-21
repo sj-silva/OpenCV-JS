@@ -29,6 +29,4 @@ More projects will be added as development progresses. Feel free to explore and 
 - Enhancing the user interface for better interaction.
 - Adding more advanced image processing techniques like object detection and image filters.
 
----
 
-Let me know if you'd like to add or modify anything!
