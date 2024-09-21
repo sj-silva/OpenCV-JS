@@ -1,3 +1,7 @@
+Here's your **`README.md`** with the link to the **Upload Image** folder included:
+
+---
+
 # OpenCV-JS Projects
 
 This repository is dedicated to various projects using **OpenCV.js**, a JavaScript binding for the popular OpenCV library. OpenCV.js allows developers to harness the power of OpenCV’s computer vision capabilities directly in the browser or Node.js environment, making it ideal for image processing and real-time applications.
@@ -8,7 +12,7 @@ This repository is dedicated to various projects using **OpenCV.js**, a JavaScri
 ## Projects in this Repository
 I will be developing and showcasing several image processing projects using OpenCV.js. Some of the planned projects include:
 
-- **Upload Image**: A project that allows users to upload images and perform various transformations.
+- **[Upload Image](https://github.com/sj-silva/OpenCV-JS/tree/main/Upload%20Image)**: A project that allows users to upload images and perform various transformations.
 - **Grayscale Images**: Convert images to grayscale using OpenCV.js functions.
 - **Image Histogram**: Generate and visualize the histogram of an image, showing pixel intensity distribution.
 - **Edge Detection**: Implement algorithms like Canny edge detection to find edges in an image.
